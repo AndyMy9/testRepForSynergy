@@ -1,0 +1,4 @@
+D:/C++/3module/testcm/build/CMakeFiles/mylib.dir
+D:/C++/3module/testcm/build/CMakeFiles/cmaketest.dir
+D:/C++/3module/testcm/build/CMakeFiles/edit_cache.dir
+D:/C++/3module/testcm/build/CMakeFiles/rebuild_cache.dir
